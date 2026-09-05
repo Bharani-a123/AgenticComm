@@ -1,0 +1,26 @@
+{
+  "category": "mesh_chair",
+  "display_name": "Mesh Chair",
+  "required_attributes": {
+    "usage_hours": [
+      4,
+      8,
+      12,
+      24
+    ],
+    "budget_max": "integer",
+    "warranty_years": [
+      1,
+      2,
+      3,
+      5
+    ],
+    "color": [
+      "black",
+      "blue",
+      "grey",
+      "white"
+    ]
+  },
+  "optional_attributes": {}
+}

@@ -1,0 +1,16 @@
+{
+  "category": "backpack",
+  "display_name": "Backpack",
+  "required_attributes": {
+    "capacity_liters": [
+      15,
+      20,
+      30,
+      40
+    ],
+    "laptop_compatible": "boolean",
+    "budget_max": "integer",
+    "water_resistant": "boolean"
+  },
+  "optional_attributes": {}
+}

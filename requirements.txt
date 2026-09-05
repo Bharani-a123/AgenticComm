@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+sqlalchemy==2.0.25
+asyncpg==0.29.0
+psycopg2-binary==2.9.9
+pydantic>=2.12.0
+pydantic-settings
+alembic
+pytest
+redis
+langgraph
+langchain-core
+anthropic
+litellm
+mcp>=2.1.1
+httpx

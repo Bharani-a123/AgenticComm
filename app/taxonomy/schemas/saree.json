@@ -1,0 +1,27 @@
+{
+  "category": "saree",
+  "display_name": "Saree",
+  "required_attributes": {
+    "material": [
+      "chiffon",
+      "cotton",
+      "georgette",
+      "linen",
+      "silk"
+    ],
+    "budget_max": "integer",
+    "color": [
+      "blue",
+      "green",
+      "pink",
+      "red"
+    ],
+    "occasion": [
+      "casual",
+      "festive",
+      "party",
+      "wedding"
+    ]
+  },
+  "optional_attributes": {}
+}

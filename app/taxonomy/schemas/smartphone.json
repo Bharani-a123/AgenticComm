@@ -1,0 +1,21 @@
+{
+  "category": "smartphone",
+  "display_name": "Smartphone",
+  "required_attributes": {
+    "ram_gb": [
+      4,
+      8,
+      12,
+      16
+    ],
+    "storage_gb": [
+      64,
+      128,
+      256,
+      512
+    ],
+    "budget_max": "integer",
+    "camera_priority": "boolean"
+  },
+  "optional_attributes": {}
+}

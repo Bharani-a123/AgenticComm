@@ -1,0 +1,24 @@
+{
+  "category": "running_shoes",
+  "display_name": "Running Shoes",
+  "required_attributes": {
+    "size": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "budget_max": "integer",
+    "terrain": [
+      "road",
+      "track",
+      "trail"
+    ],
+    "cushioning": [
+      "minimal",
+      "neutral",
+      "plush"
+    ]
+  },
+  "optional_attributes": {}
+}

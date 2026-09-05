@@ -1,0 +1,1 @@
+﻿import json, urllib.request; req = urllib.request.Request('http://localhost:8000/api/audit'); res = urllib.request.urlopen(req); data = json.loads(res.read()); print(data['logs'][0] if data['logs'] else 'No logs')
